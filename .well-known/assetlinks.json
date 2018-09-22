@@ -1,7 +1,7 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", 
-                 "package_name": "com.example.app",
-                 "sha256_cert_fingerprints": ["hash_of_app_certificate"] 
+                 "package_name": "com.tlcreactnative",
+                 "sha256_cert_fingerprints": ["9F:36:89:20:D2:4A:7F:D7:04:D5:8D:70:6B:D0:F8:87:E4:00:08:DA:DC:82:02:71:F5:A8:A8:74:54:96:96:7A"] 
                }
 }]
